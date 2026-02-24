@@ -18,7 +18,7 @@ jobs:
       - name: Render DOT to SVG
         run: |
           mkdir -p docs
-          dot -Tsvg diagrams/ucube.dot -o docs/ucube.svg
+          dot -Tsvg diagrams/flow.dot -o docs/ucube.svg
 
       - name: Commit rendered SVG
         run: |
