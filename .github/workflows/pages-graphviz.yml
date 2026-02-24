@@ -27,7 +27,7 @@ jobs:
       - name: Render DOT to SVG
         run: |
           mkdir -p site
-          dot -Tsvg flow.dot -o site/ucube.svg
+          dot -Tsvg diagrams/flow.dot -o site/ucube.svg
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
