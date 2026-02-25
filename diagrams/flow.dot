@@ -1,8 +1,8 @@
 digraph UCube {    rankdir=TB;    splines=ortho;    nodesep=0.4;    ranksep=0.8;    node [fontname="Arial", style=filled, shape=box];  
   "Release.UCube" [label="UCube Release", fillcolor=lightblue];
-  "Generate.GasMarketsCube.UCubePreserve" [label="Generate.GasMarketsCube.UCubePreserve", fillcolor=lightgreen];
+  "Generate.GasMarketsCube.UCubePreserve" [label="Generate.GasMarketsCube.UCubePreserve", fillcolor=red];
   "Process.CMUCubeArchive" [label="Process.CMUCubeArchive", fillcolor=lightgreen];
-  "Release.CMUCUBEArchive.CMUCubeClean" [label="Release.CMUCUBEArchive.CMUCubeClean", fillcolor=lightblue];
+  "Release.CMUCUBEArchive.CMUCubeClean" [label="Release.CMUCUBEArchive.CMUCubeClean", fillcolor=purple];
   "Release.UCube.UploadFTP" [label="Release.UCube.UploadFTP", fillcolor=lightgreen];
   "Release.UCubeWell.UploadFTP" [label="Release.UCubeWell.UploadFTP", fillcolor=lightgreen];
   "Release.CMUCUBEArchive.CMUCubeClean" -> "Process.CMUCubeArchive";
