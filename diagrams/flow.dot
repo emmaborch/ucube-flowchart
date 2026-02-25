@@ -1,10 +1,10 @@
 digraph UCube {    rankdir=TB;    splines=ortho;    nodesep=0.4;    ranksep=0.8;    node [fontname="Arial", style=filled, shape=box];  
   "Release.UCube" [label="UCube Release", fillcolor=lightblue];
-  "Generate.GasMarketsCube.UCubePreserve" [label="Generate.GasMarketsCube.UCubePreserve", fillcolor=red];
+  "Generate.GasMarketsCube.UCubePreserve" [label="Generate.GasMarketsCube.UCubePreserve", fillcolor=lightgreen];
   "Process.CMUCubeArchive" [label="Process.CMUCubeArchive", fillcolor=lightgreen];
-  "Release.CMUCUBEArchive.CMUCubeClean" [label="Release.CMUCUBEArchive.CMUCubeClean", fillcolor=orange];
+  "Release.CMUCUBEArchive.CMUCubeClean" [label="Release.CMUCUBEArchive.CMUCubeClean", fillcolor=lightblue];
   "Release.UCube.UploadFTP" [label="Release.UCube.UploadFTP", fillcolor=lightgreen];
-  "Release.UCubeWell.UploadFTP" [label="Release.UCubeWell.UploadFTP", fillcolor=blue];
+  "Release.UCubeWell.UploadFTP" [label="Release.UCubeWell.UploadFTP", fillcolor=lightgreen];
   "Release.CMUCUBEArchive.CMUCubeClean" -> "Process.CMUCubeArchive";
   "Release.UCube" -> "Generate.GasMarketsCube.UCubePreserve";
   "Release.UCube" -> "Release.CMUCUBEArchive.CMUCubeClean";
@@ -13,4 +13,3 @@ digraph UCube {    rankdir=TB;    splines=ortho;    nodesep=0.4;    ranksep=0.8;
   { rank=same; "Release.UCube"; }
   { rank=same; "Generate.GasMarketsCube.UCubePreserve"; "Release.CMUCUBEArchive.CMUCubeClean"; "Release.UCube.UploadFTP"; "Release.UCubeWell.UploadFTP"; }
   { rank=same; "Process.CMUCubeArchive"; }
-}
