@@ -12,13 +12,13 @@
 <!-- Generate.GasMarketsCube.UCubePreserve -->
 <g id="node1" class="node">
 <title>Generate.GasMarketsCube.UCubePreserve</title>
-<polygon fill="lightpink" stroke="black" points="283,-130 0,-130 0,-94 283,-94 283,-130"/>
+<polygon fill="lightgreen" stroke="black" points="283,-130 0,-130 0,-94 283,-94 283,-130"/>
 <text xml:space="preserve" text-anchor="middle" x="141.5" y="-106.58" font-family="Arial" font-size="14.00">Generate.GasMarketsCube.UCubePreserve</text>
 </g>
 <!-- Process.CMUCubeArchive -->
 <g id="node2" class="node">
 <title>Process.CMUCubeArchive</title>
-<polygon fill="lightpink" stroke="black" points="544.12,-36 366.88,-36 366.88,0 544.12,0 544.12,-36"/>
+<polygon fill="lightgreen" stroke="black" points="544.12,-36 366.88,-36 366.88,0 544.12,0 544.12,-36"/>
 <text xml:space="preserve" text-anchor="middle" x="455.5" y="-12.57" font-family="Arial" font-size="14.00">Process.CMUCubeArchive</text>
 </g>
 <!-- Release.CMUCUBEArchive.CMUCubeClean -->
