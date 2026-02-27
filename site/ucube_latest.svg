@@ -12,13 +12,13 @@
 <!-- Generate.GasMarketsCube.UCubePreserve -->
 <g id="node1" class="node">
 <title>Generate.GasMarketsCube.UCubePreserve</title>
-<path fill="lightgreen" stroke="black" d="M271,-130C271,-130 12,-130 12,-130 6,-130 0,-124 0,-118 0,-118 0,-106 0,-106 0,-100 6,-94 12,-94 12,-94 271,-94 271,-94 277,-94 283,-100 283,-106 283,-106 283,-118 283,-118 283,-124 277,-130 271,-130"/>
+<path fill="lightblue" stroke="black" d="M271,-130C271,-130 12,-130 12,-130 6,-130 0,-124 0,-118 0,-118 0,-106 0,-106 0,-100 6,-94 12,-94 12,-94 271,-94 271,-94 277,-94 283,-100 283,-106 283,-106 283,-118 283,-118 283,-124 277,-130 271,-130"/>
 <text xml:space="preserve" text-anchor="middle" x="141.5" y="-106.58" font-family="Arial" font-size="14.00">Generate.GasMarketsCube.UCubePreserve</text>
 </g>
 <!-- Process.CMUCubeArchive -->
 <g id="node2" class="node">
 <title>Process.CMUCubeArchive</title>
-<path fill="lightgreen" stroke="black" d="M532.12,-36C532.12,-36 378.88,-36 378.88,-36 372.88,-36 366.88,-30 366.88,-24 366.88,-24 366.88,-12 366.88,-12 366.88,-6 372.88,0 378.88,0 378.88,0 532.12,0 532.12,0 538.12,0 544.12,-6 544.12,-12 544.12,-12 544.12,-24 544.12,-24 544.12,-30 538.12,-36 532.12,-36"/>
+<path fill="lightblue" stroke="black" d="M532.12,-36C532.12,-36 378.88,-36 378.88,-36 372.88,-36 366.88,-30 366.88,-24 366.88,-24 366.88,-12 366.88,-12 366.88,-6 372.88,0 378.88,0 378.88,0 532.12,0 532.12,0 538.12,0 544.12,-6 544.12,-12 544.12,-12 544.12,-24 544.12,-24 544.12,-30 538.12,-36 532.12,-36"/>
 <text xml:space="preserve" text-anchor="middle" x="455.5" y="-12.57" font-family="Arial" font-size="14.00">Process.CMUCubeArchive</text>
 </g>
 <!-- Release.CMUCUBEArchive.CMUCubeClean -->
